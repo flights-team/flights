@@ -1,8 +1,8 @@
 [submodule "flights-frontend"]
 	path = flights-frontend
-	url = https://github.com/x036ox/flights-frontend.git
+	url = https://github.com/flights-team/flights-frontend.git
 
 [submodule "flights-backend"]
 	path = flights-backend
-	url = https://github.com/x036ox/flights-backend.git
+	url = https://github.com/flights-team/flights-backend.git
 
